@@ -1,0 +1,23 @@
+'/=====================================================================================2016-11-17 14:47:07/'
+array (
+  'plid' => '7839',
+  'type' => 'wechat',
+  'uniacid' => '28',
+  'acid' => '28',
+  'openid' => 'o_eu-w4ifM3qFkgE_U-ATMvqwkp0',
+  'uniontid' => '2016111714465800001354794389',
+  'tid' => '20161117652158141298',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4003932001201611179998910075',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)

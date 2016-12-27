@@ -1,0 +1,15 @@
+'/=====================================================================================2016-11-11 16:34:23/'
+array (
+  'uniacid' => 26,
+  'coupon_template_id' => '27',
+  'name' => '测试 测试 测试',
+  'cash' => 15.36,
+  'is_at_least' => '2',
+  'at_least' => '30.00',
+  'description' => '',
+  'start_time' => '1478793600',
+  'end_time' => '1478879999',
+  'use_time' => 0,
+  'openid' => 'oFan6wdMG4muxw4hJsAs6gw2P5rQ',
+  'createtime' => 1478853263,
+)

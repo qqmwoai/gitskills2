@@ -1,0 +1,50 @@
+'/=====================================================================================2016-11-22 17:48:19/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '20161122080900155431',
+  'uniontid' => '2016112217481200001317160724',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.01',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611220503609832',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.01',
+  'card_id' => '',
+  'paytime' => 1479808099,
+)
+'/=====================================================================================2016-11-22 17:49:15/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '20161122081467051356',
+  'uniontid' => '2016112217490800001347886324',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wfIMxnlAspMvw4FYz8bOn00',
+  'fee' => '0.01',
+  'tag' => 
+  array (
+    'transaction_id' => '4003322001201611220504806971',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.01',
+  'card_id' => '',
+  'paytime' => 1479808154,
+)

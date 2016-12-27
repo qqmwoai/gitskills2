@@ -1,0 +1,19 @@
+'/=====================================================================================2016-11-26 14:31:15/'
+'<xml><appid><![CDATA[wx58ed2758eab878fb]]></appid>
+<attach><![CDATA[26]]></attach>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1392098502]]></mch_id>
+<nonce_str><![CDATA[bpkV6Qaq]]></nonce_str>
+<openid><![CDATA[oFan6wZrsom0HDNO_eRGwI9XNOjk]]></openid>
+<out_trade_no><![CDATA[2016112614310900001348452344]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[6B4672205A0EF30C994DE1A111D23B72]]></sign>
+<time_end><![CDATA[20161126143115]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4000012001201611260879759045]]></transaction_id>
+</xml>'

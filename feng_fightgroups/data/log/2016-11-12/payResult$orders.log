@@ -1,0 +1,30 @@
+'/=====================================================================================2016-11-12 10:25:39/'
+array (
+  'uniacid' => 26,
+  'coupon_template_id' => '28',
+  'name' => '抽奖优惠券测试',
+  'cash' => '1.00',
+  'is_at_least' => '2',
+  'at_least' => '2.00',
+  'description' => '',
+  'start_time' => '1478880000',
+  'end_time' => '1480521599',
+  'use_time' => 0,
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'createtime' => 1478917538,
+)
+'/=====================================================================================2016-11-12 10:25:39/'
+array (
+  'uniacid' => 26,
+  'coupon_template_id' => '28',
+  'name' => '抽奖优惠券测试',
+  'cash' => '1.00',
+  'is_at_least' => '2',
+  'at_least' => '2.00',
+  'description' => '',
+  'start_time' => '1478880000',
+  'end_time' => '1480521599',
+  'use_time' => 0,
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'createtime' => 1478917538,
+)

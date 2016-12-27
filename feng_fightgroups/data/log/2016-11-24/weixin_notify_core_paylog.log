@@ -1,0 +1,207 @@
+'/=====================================================================================2016-11-24 17:46:21/'
+array (
+  'plid' => '7849',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'uniontid' => '2016112417461400001301374441',
+  'tid' => '20161124807723228569',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611240697573617',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 17:47:03/'
+array (
+  'plid' => '7850',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wfIMxnlAspMvw4FYz8bOn00',
+  'uniontid' => '2016112417465800001313851684',
+  'tid' => '20161124808152377445',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4003322001201611240695481394',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:53:40/'
+array (
+  'plid' => '7851',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wfIMxnlAspMvw4FYz8bOn00',
+  'uniontid' => '2016112419533500001328176188',
+  'tid' => '20161124884137733716',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4003322001201611240710593478',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:54:19/'
+array (
+  'plid' => '7852',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'uniontid' => '2016112419541200001371082708',
+  'tid' => '20161124884508502579',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611240710643234',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:54:44/'
+array (
+  'plid' => '7853',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wfIMxnlAspMvw4FYz8bOn00',
+  'uniontid' => '2016112419543900001382968661',
+  'tid' => '20161124884768659319',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4003322001201611240710635877',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:55:00/'
+array (
+  'plid' => '7854',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wfIMxnlAspMvw4FYz8bOn00',
+  'uniontid' => '2016112419545500001358462828',
+  'tid' => '20161124884938465673',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4003322001201611240712674304',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:55:26/'
+array (
+  'plid' => '7855',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'uniontid' => '2016112419552000001346487568',
+  'tid' => '20161124885181834146',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611240710673879',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:55:43/'
+array (
+  'plid' => '7856',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'uniontid' => '2016112419553600001378238439',
+  'tid' => '20161124885335358341',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611240710616998',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)
+'/=====================================================================================2016-11-24 19:58:57/'
+array (
+  'plid' => '7857',
+  'type' => 'wechat',
+  'uniacid' => '26',
+  'acid' => '26',
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'uniontid' => '2016112419585000001314644202',
+  'tid' => '20161124887286389655',
+  'fee' => '0.01',
+  'status' => 1,
+  'module' => 'feng_fightgroups',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611240710780184',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_id' => '',
+  'card_fee' => '0.01',
+  'encrypt_code' => '',
+  'uid' => NULL,
+)

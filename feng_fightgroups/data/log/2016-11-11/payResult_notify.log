@@ -1,0 +1,25 @@
+'/=====================================================================================2016-11-11 13:44:33/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '20161111430618784552',
+  'uniontid' => '2016111113442500001344467419',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611119411372832',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+  'paytime' => 1478843072,
+)

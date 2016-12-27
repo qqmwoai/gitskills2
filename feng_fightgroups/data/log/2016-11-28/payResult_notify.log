@@ -1,0 +1,150 @@
+'/=====================================================================================2016-11-28 10:56:47/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '20161128017988066433',
+  'uniontid' => '2016112810564000001354551504',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.01',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611281057792543',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.01',
+  'card_id' => '',
+  'paytime' => 1480301807,
+)
+'/=====================================================================================2016-11-28 14:59:10/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '2016112814584900001367868984',
+  'uniontid' => '2016112814585100001321464826',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611281083507451',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+  'paytime' => 1480316350,
+)
+'/=====================================================================================2016-11-28 14:59:41/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '2016112814593300001302524435',
+  'uniontid' => '2016112814593500001365698726',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611281081722827',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+  'paytime' => 1480316381,
+)
+'/=====================================================================================2016-11-28 15:03:06/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '2016112815025800001364622832',
+  'uniontid' => '2016112815025800001364622832',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611281081894006',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+  'paytime' => 1480316585,
+)
+'/=====================================================================================2016-11-28 16:29:21/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '2016112816291300001318517653',
+  'uniontid' => '2016112816291300001318517653',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.02',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611281089544711',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.02',
+  'card_id' => '',
+  'paytime' => 1480321760,
+)
+'/=====================================================================================2016-11-28 16:43:45/'
+array (
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'notify',
+  'tid' => '2016112816433800001345385115',
+  'uniontid' => '2016112816433800001345385115',
+  'transaction_id' => NULL,
+  'trade_type' => 'JSAPI',
+  'follow' => 1,
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.02',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611281091962497',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.02',
+  'card_id' => '',
+  'paytime' => 1480322625,
+)

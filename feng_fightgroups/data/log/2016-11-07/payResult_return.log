@@ -1,0 +1,148 @@
+'/=====================================================================================2016-11-07 10:15:26/'
+array (
+  'weid' => '26',
+  'uniacid' => '26',
+  'result' => 'success',
+  'type' => 'wechat',
+  'from' => 'return',
+  'tid' => '20161107849137601858',
+  'uniontid' => '2016110710151800001349222628',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'tag' => 
+  array (
+    'transaction_id' => '4000012001201611078992046193',
+  ),
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 10:23:58/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107854347454954',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 11:16:06/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107885628718783',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 11:25:44/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107891417293308',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 11:29:16/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107893533011744',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 11:37:03/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107898200864783',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 11:42:29/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107901425602118',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 11:56:18/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107909749775706',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.03',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.03',
+  'card_id' => '',
+)
+'/=====================================================================================2016-11-07 13:54:13/'
+array (
+  'result' => 'success',
+  'type' => 'credit',
+  'from' => 'notify',
+  'tid' => '20161107980481627387',
+  'user' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'fee' => '0.02',
+  'weid' => NULL,
+  'uniacid' => '26',
+  'acid' => '26',
+  'is_usecard' => '0',
+  'card_type' => '0',
+  'card_fee' => '0.02',
+  'card_id' => '',
+)

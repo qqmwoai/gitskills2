@@ -1,0 +1,4394 @@
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=d797cebfc87a5b12f570de36e73619ad',
+      1 => 'PHPSESSID=d797cebfc87a5b12f570de36e73619ad; path=/',
+      2 => '7770_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=d797cebfc87a5b12f570de36e73619ad
+Set-Cookie: PHPSESSID=d797cebfc87a5b12f570de36e73619ad; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 7770_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=2430005b11c143802f918e822b3f642d',
+      1 => 'PHPSESSID=2430005b11c143802f918e822b3f642d; path=/',
+      2 => '4aaa_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=2430005b11c143802f918e822b3f642d
+Set-Cookie: PHPSESSID=2430005b11c143802f918e822b3f642d; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 4aaa_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=74f508617f40849c6b22f0dfdb076931; expires=Sat, 05-Nov-21 11:52:26 GMT; path=/; domain=.rzdamai.cn; HttpOnly',
+      1 => 'yunsuo_session_verify=74f508617f40849c6b22f0dfdb076931; expires=Sat, 05-Nov-21 11:52:25 GMT; path=/; domain=.rzdamai.cn; HttpOnly',
+      2 => 'PHPSESSID=ba510324da0c25290c4bd89bb95f822f',
+      3 => 'PHPSESSID=ba510324da0c25290c4bd89bb95f822f; path=/',
+      4 => '6bbf_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: yunsuo_session_verify=74f508617f40849c6b22f0dfdb076931; expires=Sat, 05-Nov-21 11:52:26 GMT; path=/; domain=.rzdamai.cn; HttpOnly
+Set-Cookie: yunsuo_session_verify=74f508617f40849c6b22f0dfdb076931; expires=Sat, 05-Nov-21 11:52:25 GMT; path=/; domain=.rzdamai.cn; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=ba510324da0c25290c4bd89bb95f822f
+Set-Cookie: PHPSESSID=ba510324da0c25290c4bd89bb95f822f; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 6bbf_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=e21a8be285e1bb86ef4561e975e7c98b',
+      1 => 'PHPSESSID=e21a8be285e1bb86ef4561e975e7c98b; path=/',
+      2 => 'd723_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=e21a8be285e1bb86ef4561e975e7c98b
+Set-Cookie: PHPSESSID=e21a8be285e1bb86ef4561e975e7c98b; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: d723_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.17',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=a527b0cd267c4dcb89cbf53d8f08e50d',
+      1 => 'PHPSESSID=a527b0cd267c4dcb89cbf53d8f08e50d; path=/',
+      2 => '825a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.17
+Set-Cookie: PHPSESSID=a527b0cd267c4dcb89cbf53d8f08e50d
+Set-Cookie: PHPSESSID=a527b0cd267c4dcb89cbf53d8f08e50d; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 825a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=a0420908f0d38a4ebf7f4092a1f2e4c1; path=/',
+      1 => '0357_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=a0420908f0d38a4ebf7f4092a1f2e4c1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 0357_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.45',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=f741e7db3b8cc9ed3a41cb10be0d9739',
+      1 => 'PHPSESSID=f741e7db3b8cc9ed3a41cb10be0d9739; path=/',
+      2 => '5c00_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.45
+Set-Cookie: PHPSESSID=f741e7db3b8cc9ed3a41cb10be0d9739
+Set-Cookie: PHPSESSID=f741e7db3b8cc9ed3a41cb10be0d9739; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 5c00_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Server' => 'Apache/2.2.22 (Unix) DAV/2 PHP/5.4.10',
+    'X-Powered-By' => 'PHP/5.4.10',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=6fc8a1baf8b702db70ac146d23233ce7',
+      1 => 'PHPSESSID=6fc8a1baf8b702db70ac146d23233ce7; path=/',
+      2 => 'cd67_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Server: Apache/2.2.22 (Unix) DAV/2 PHP/5.4.10
+X-Powered-By: PHP/5.4.10
+Set-Cookie: PHPSESSID=6fc8a1baf8b702db70ac146d23233ce7
+Set-Cookie: PHPSESSID=6fc8a1baf8b702db70ac146d23233ce7; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: cd67_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:06/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=015dd940ee3f23308e3b4326018e02b5; path=/',
+      1 => 'f74b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=015dd940ee3f23308e3b4326018e02b5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: f74b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Server' => 'Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 mod_fcgid/2.3.9 mod_fastcgi/2.4.6',
+    'X-Powered-By' => 'PHP/5.4.24',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=a1b68ad5cb458290268194e8f2fb3c2f',
+      1 => 'PHPSESSID=a1b68ad5cb458290268194e8f2fb3c2f; path=/',
+      2 => '9bf4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 mod_fcgid/2.3.9 mod_fastcgi/2.4.6
+X-Powered-By: PHP/5.4.24
+Set-Cookie: PHPSESSID=a1b68ad5cb458290268194e8f2fb3c2f
+Set-Cookie: PHPSESSID=a1b68ad5cb458290268194e8f2fb3c2f; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 9bf4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => '__cfduid=d6119b65ffdb515ef293297099ba388b51478933467; expires=Sun, 12-Nov-17 06:51:07 GMT; path=/; domain=.laizhoumei.com; HttpOnly',
+      1 => 'PHPSESSID=80b8ba50e4d5d3dabdfa4f1a46f9211b',
+      2 => 'PHPSESSID=80b8ba50e4d5d3dabdfa4f1a46f9211b; path=/',
+      3 => 'a581_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Server' => 'yunjiasu-nginx',
+    'CF-RAY' => '30080db967e643ef-SZV',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=d6119b65ffdb515ef293297099ba388b51478933467; expires=Sun, 12-Nov-17 06:51:07 GMT; path=/; domain=.laizhoumei.com; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=80b8ba50e4d5d3dabdfa4f1a46f9211b
+Set-Cookie: PHPSESSID=80b8ba50e4d5d3dabdfa4f1a46f9211b; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: a581_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Server: yunjiasu-nginx
+CF-RAY: 30080db967e643ef-SZV
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=de37ba6937b2340f03577f48fef95d9f',
+      1 => 'PHPSESSID=de37ba6937b2340f03577f48fef95d9f; path=/',
+      2 => '2e93_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=de37ba6937b2340f03577f48fef95d9f
+Set-Cookie: PHPSESSID=de37ba6937b2340f03577f48fef95d9f; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2e93_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=34b597ba47b350d3da047eb33850820c',
+      1 => 'PHPSESSID=34b597ba47b350d3da047eb33850820c; path=/',
+      2 => 'fd33_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=34b597ba47b350d3da047eb33850820c
+Set-Cookie: PHPSESSID=34b597ba47b350d3da047eb33850820c; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: fd33_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=16743f4e6c800d90dfd1899c0b27e1c1; expires=Mon, 10-Oct-21 08:38:15 GMT; path=/; domain=.ycldlm.com; HttpOnly',
+      1 => 'PHPSESSID=1f039ff9b0e7554ee10ff1bda7848f91',
+      2 => 'PHPSESSID=1f039ff9b0e7554ee10ff1bda7848f91; path=/',
+      3 => 'a217_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: yunsuo_session_verify=16743f4e6c800d90dfd1899c0b27e1c1; expires=Mon, 10-Oct-21 08:38:15 GMT; path=/; domain=.ycldlm.com; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=1f039ff9b0e7554ee10ff1bda7848f91
+Set-Cookie: PHPSESSID=1f039ff9b0e7554ee10ff1bda7848f91; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: a217_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.41',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=2d0d7d68b3734e15941c51abc7fc3cd9; path=/',
+      1 => '7519_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.41
+Set-Cookie: PHPSESSID=2d0d7d68b3734e15941c51abc7fc3cd9; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 7519_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => '__cfduid=d42cf2c0e26bc2ef373d586d382b65bf11478933467; expires=Sun, 12-Nov-17 06:51:07 GMT; path=/; domain=.njjcx.wang; HttpOnly',
+      1 => 'PHPSESSID=0bcca076ae298bf795877ddef120840a',
+      2 => 'PHPSESSID=0bcca076ae298bf795877ddef120840a; path=/',
+      3 => '1450_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Server' => 'yunjiasu-nginx',
+    'CF-RAY' => '30080dbd055143a1-SZV',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: __cfduid=d42cf2c0e26bc2ef373d586d382b65bf11478933467; expires=Sun, 12-Nov-17 06:51:07 GMT; path=/; domain=.njjcx.wang; HttpOnly
+X-Powered-By: PHP/5.3.29
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=0bcca076ae298bf795877ddef120840a
+Set-Cookie: PHPSESSID=0bcca076ae298bf795877ddef120840a; path=/
+Set-Cookie: 1450_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Server: yunjiasu-nginx
+CF-RAY: 30080dbd055143a1-SZV
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=5559a071dcb18fa28d3463004a26fdcd; expires=Mon, 17-Oct-21 14:45:05 GMT; path=/; domain=.isz.cc; HttpOnly',
+      1 => 'PHPSESSID=aa4a28462c17afd38bdf9c0f9a9d7a12',
+      2 => 'PHPSESSID=aa4a28462c17afd38bdf9c0f9a9d7a12; path=/',
+      3 => '2670_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: yunsuo_session_verify=5559a071dcb18fa28d3463004a26fdcd; expires=Mon, 17-Oct-21 14:45:05 GMT; path=/; domain=.isz.cc; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=aa4a28462c17afd38bdf9c0f9a9d7a12
+Set-Cookie: PHPSESSID=aa4a28462c17afd38bdf9c0f9a9d7a12; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2670_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:07/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:07 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=13dc3ab2c5a4d860427df9f83b0964af; path=/',
+      1 => '3a4a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:07 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=13dc3ab2c5a4d860427df9f83b0964af; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 3a4a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:08/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Connection' => 'close',
+    'Date' => 'Sat, 12 Nov 2016 06:51:06 GMT',
+    'Cache-Control' => 'no-store',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=7baa3e1a660b346a334a36305f356f6d; path=/',
+      1 => '6ed9_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Daa-Tunnel' => 'hop_count=1',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Connection: close
+Date: Sat, 12 Nov 2016 06:51:06 GMT
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=7baa3e1a660b346a334a36305f356f6d; path=/
+Pragma: no-cache
+Set-Cookie: 6ed9_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+X-Daa-Tunnel: hop_count=1
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:08/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:08 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 
+    array (
+      0 => 'Accept-Encoding',
+      1 => 'Accept-Encoding',
+    ),
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=5877d9d2026f4ed80575de572b02ef41; path=/',
+      1 => 'c25b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:08 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=5877d9d2026f4ed80575de572b02ef41; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: c25b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:09/'
+array (
+  'errno' => 1,
+  'message' => 'Operation timed out after 1000 milliseconds with 0 bytes received',
+)
+'/=====================================================================================2016-11-12 14:51:09/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:09 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=895009a5dd0d6f646480b65316c5175e; path=/',
+      1 => '631b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:09 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=895009a5dd0d6f646480b65316c5175e; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 631b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:09/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:09 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 
+    array (
+      0 => 'ASP.NET',
+      1 => 'PHP/5.3.29',
+    ),
+    'Set-Cookie' => 
+    array (
+      0 => '__cfduid=d2d9a5205b4ef09979e1c121c5de1f4e21478933469; expires=Sun, 12-Nov-17 06:51:09 GMT; path=/; domain=.17gl.com; HttpOnly',
+      1 => 'PHPSESSID=30b6f290d0f3adaf1c48d5866ae29ebb',
+      2 => 'PHPSESSID=30b6f290d0f3adaf1c48d5866ae29ebb; path=/',
+      3 => 'cfae_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Server' => 'yunjiasu-nginx',
+    'CF-RAY' => '30080dc7969a43ad-SZV',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:09 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: __cfduid=d2d9a5205b4ef09979e1c121c5de1f4e21478933469; expires=Sun, 12-Nov-17 06:51:09 GMT; path=/; domain=.17gl.com; HttpOnly
+X-Powered-By: ASP.NET
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=30b6f290d0f3adaf1c48d5866ae29ebb
+Set-Cookie: PHPSESSID=30b6f290d0f3adaf1c48d5866ae29ebb; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: cfae_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Server: yunjiasu-nginx
+CF-RAY: 30080dc7969a43ad-SZV
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:09/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:09 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.22',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=10b7e2f7ef65344c68761897fd8c4fde; path=/',
+      1 => '034c_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:09 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.22
+Set-Cookie: PHPSESSID=10b7e2f7ef65344c68761897fd8c4fde; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 034c_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:09/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:09 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=2d531664ddadc990300a18d396c5cdf8',
+      1 => 'PHPSESSID=2d531664ddadc990300a18d396c5cdf8; path=/',
+      2 => '1c8f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:09 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=2d531664ddadc990300a18d396c5cdf8
+Set-Cookie: PHPSESSID=2d531664ddadc990300a18d396c5cdf8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 1c8f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:10/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:10 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.24',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=5d65f91d608e7d25c6180699c81d2d00',
+      1 => 'PHPSESSID=5d65f91d608e7d25c6180699c81d2d00; path=/',
+      2 => 'e71e_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:10 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.24
+Set-Cookie: PHPSESSID=5d65f91d608e7d25c6180699c81d2d00
+Set-Cookie: PHPSESSID=5d65f91d608e7d25c6180699c81d2d00; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: e71e_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:10/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'Tengine',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Date' => 'Sat, 12 Nov 2016 06:51:10 GMT',
+    'Vary' => 'Accept-Encoding',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=e137e380e5883f1d64e499a27acc37eb; path=/',
+      1 => 'a84f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Via' => 'cache17.l2cm10[97,200-0,M], cache11.l2cm10[98,0], kunlun7.cn104[178,200-0,M], kunlun3.cn104[178,0]',
+    'X-Cache' => 'MISS TCP_MISS dirn:-2:-2',
+    'X-Swift-SaveTime' => 'Sat, 12 Nov 2016 06:51:10 GMT',
+    'X-Swift-CacheTime' => '0',
+    'Timing-Allow-Origin' => '*',
+    'EagleId' => '78c0528614789334704296433e',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: close
+Date: Sat, 12 Nov 2016 06:51:10 GMT
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=e137e380e5883f1d64e499a27acc37eb; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: a84f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Via: cache17.l2cm10[97,200-0,M], cache11.l2cm10[98,0], kunlun7.cn104[178,200-0,M], kunlun3.cn104[178,0]
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Sat, 12 Nov 2016 06:51:10 GMT
+X-Swift-CacheTime: 0
+Timing-Allow-Origin: *
+EagleId: 78c0528614789334704296433e
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:10/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:10 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.24',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=ba3f97d320fa9f957b70a86b68893db4',
+      1 => 'PHPSESSID=ba3f97d320fa9f957b70a86b68893db4; path=/',
+      2 => '774d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:10 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.24
+Set-Cookie: PHPSESSID=ba3f97d320fa9f957b70a86b68893db4
+Set-Cookie: PHPSESSID=ba3f97d320fa9f957b70a86b68893db4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 774d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:10/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:10 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.17',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=7cf4cad9d5885a5034788094d27138a1',
+      1 => 'PHPSESSID=7cf4cad9d5885a5034788094d27138a1; path=/',
+      2 => 'b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:10 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.17
+Set-Cookie: PHPSESSID=7cf4cad9d5885a5034788094d27138a1
+Set-Cookie: PHPSESSID=7cf4cad9d5885a5034788094d27138a1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:10 GMT',
+    'Server' => 'Apache/2.2.15 (CentOS)',
+    'X-Powered-By' => 'PHP/5.6.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=0854ae2b7942ca427bdefbb29a570e10',
+      1 => 'PHPSESSID=0854ae2b7942ca427bdefbb29a570e10; path=/',
+      2 => 'd605_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:10 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.6.26
+Set-Cookie: PHPSESSID=0854ae2b7942ca427bdefbb29a570e10
+Set-Cookie: PHPSESSID=0854ae2b7942ca427bdefbb29a570e10; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: d605_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:11 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=c3c6cb07c3f1119fbf555ebdc687a740; expires=Thu, 13-Oct-21 15:36:30 GMT; path=/; domain=.saileihudong.cc; HttpOnly',
+      1 => 'yunsuo_session_verify=c3c6cb07c3f1119fbf555ebdc687a740; expires=Sat, 12-Nov-21 14:28:15 GMT; path=/; domain=.saileihudong.cc; HttpOnly',
+      2 => 'PHPSESSID=bc0654c6ff2fd72bf12b976327148a3a',
+      3 => 'PHPSESSID=bc0654c6ff2fd72bf12b976327148a3a; path=/',
+      4 => '054d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:11 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: close
+Set-Cookie: yunsuo_session_verify=c3c6cb07c3f1119fbf555ebdc687a740; expires=Thu, 13-Oct-21 15:36:30 GMT; path=/; domain=.saileihudong.cc; HttpOnly
+Set-Cookie: yunsuo_session_verify=c3c6cb07c3f1119fbf555ebdc687a740; expires=Sat, 12-Nov-21 14:28:15 GMT; path=/; domain=.saileihudong.cc; HttpOnly
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=bc0654c6ff2fd72bf12b976327148a3a
+Set-Cookie: PHPSESSID=bc0654c6ff2fd72bf12b976327148a3a; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 054d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:29 GMT',
+    'Server' => 'Apache',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=b61d0afff1b94b48940064e9e917e226',
+      1 => 'PHPSESSID=b61d0afff1b94b48940064e9e917e226; path=/',
+      2 => 'cebd_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Vary' => 'User-Agent,Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:29 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=b61d0afff1b94b48940064e9e917e226
+Set-Cookie: PHPSESSID=b61d0afff1b94b48940064e9e917e226; path=/
+Set-Cookie: cebd_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: User-Agent,Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.0 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:45:46 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=29a810312a32800588ef087ff81b1059',
+      1 => 'PHPSESSID=29a810312a32800588ef087ff81b1059; path=/',
+      2 => '7f7d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'X-Cache' => 'MISS from Ichengyun.Net',
+    'Via' => '1.0 Ichengyun.Net (squid/3.0.STABLE26)',
+    'Connection' => 'close',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.0 200 OK
+Date: Sat, 12 Nov 2016 06:45:46 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=29a810312a32800588ef087ff81b1059
+Set-Cookie: PHPSESSID=29a810312a32800588ef087ff81b1059; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 7f7d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+X-Cache: MISS from Ichengyun.Net
+Via: 1.0 Ichengyun.Net (squid/3.0.STABLE26)
+Connection: close
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'errno' => 1,
+  'message' => 'Couldn\'t resolve host \'ncyonglixj.cn\'',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:11 GMT',
+    'Server' => 'Apache',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=8ccb43e6f8fa00a58fc07f598ab401d9; path=/',
+      1 => '2125_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Vary' => 'User-Agent,Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:11 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=8ccb43e6f8fa00a58fc07f598ab401d9; path=/
+Set-Cookie: 2125_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Vary: User-Agent,Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'kangle/3.5.8.2',
+    'Date' => 'Sat, 12 Nov 2016 06:51:11 GMT',
+    'X-Powered-By' => 'PHP/5.5.38',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=aac22854de64e1535c4ab27920bb072d; path=/',
+      1 => 'eef9_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Content-Length' => '0',
+    'Connection' => 'close',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: kangle/3.5.8.2
+Date: Sat, 12 Nov 2016 06:51:11 GMT
+X-Powered-By: PHP/5.5.38
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=aac22854de64e1535c4ab27920bb072d; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: eef9_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Content-Length: 0
+Connection: close
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:11/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Connection' => 'close',
+    'Date' => 'Sat, 12 Nov 2016 06:51:11 GMT',
+    'Cache-Control' => 'no-store',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.22',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=0e04c7b894b25cf864e325407faf924e; path=/',
+      1 => '9797_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'X-Daa-Tunnel' => 'hop_count=1',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Connection: close
+Date: Sat, 12 Nov 2016 06:51:11 GMT
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.22
+Set-Cookie: PHPSESSID=0e04c7b894b25cf864e325407faf924e; path=/
+Pragma: no-cache
+Set-Cookie: 9797_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Daa-Tunnel: hop_count=1
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'errno' => 1,
+  'message' => 'Empty reply from server',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=fa2d2ba19850bddb261166593a894196',
+      1 => 'PHPSESSID=fa2d2ba19850bddb261166593a894196; path=/',
+      2 => '2649_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=fa2d2ba19850bddb261166593a894196
+Set-Cookie: PHPSESSID=fa2d2ba19850bddb261166593a894196; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2649_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=0193c6e9e9d52ef7bed029e19fc16dc8; expires=Sat, 12-Nov-21 03:35:11 GMT; path=/; domain=.localso.net; HttpOnly',
+      1 => 'PHPSESSID=8f224e3af8b64f1bb715fa7e45a80008',
+      2 => 'PHPSESSID=8f224e3af8b64f1bb715fa7e45a80008; path=/',
+      3 => '8148_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: yunsuo_session_verify=0193c6e9e9d52ef7bed029e19fc16dc8; expires=Sat, 12-Nov-21 03:35:11 GMT; path=/; domain=.localso.net; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=8f224e3af8b64f1bb715fa7e45a80008
+Set-Cookie: PHPSESSID=8f224e3af8b64f1bb715fa7e45a80008; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 8148_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.24',
+  ),
+  'content' => '抱歉，您的公众号服务已过期，请及时联系管理员',
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.24
+
+抱歉，您的公众号服务已过期，请及时联系管理员',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=40eac839b299df7c27b76557bcd1a3b1',
+      1 => 'PHPSESSID=40eac839b299df7c27b76557bcd1a3b1; path=/',
+      2 => '2f17_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=40eac839b299df7c27b76557bcd1a3b1
+Set-Cookie: PHPSESSID=40eac839b299df7c27b76557bcd1a3b1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2f17_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=a635ba786fc8dcb268c8e89b2fc2e11c',
+      1 => 'PHPSESSID=a635ba786fc8dcb268c8e89b2fc2e11c; path=/',
+      2 => '7a7f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=a635ba786fc8dcb268c8e89b2fc2e11c
+Set-Cookie: PHPSESSID=a635ba786fc8dcb268c8e89b2fc2e11c; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 7a7f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=b69e4f9f344cdb934c0638257a9bfa60',
+      1 => 'PHPSESSID=b69e4f9f344cdb934c0638257a9bfa60; path=/; HttpOnly',
+      2 => '77e4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: PHPSESSID=b69e4f9f344cdb934c0638257a9bfa60
+Set-Cookie: PHPSESSID=b69e4f9f344cdb934c0638257a9bfa60; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 77e4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.3.3',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=c153dee7bce2b356bb5d71074e51f0ce',
+      1 => 'PHPSESSID=c153dee7bce2b356bb5d71074e51f0ce; path=/',
+      2 => '6a09_merchantid=deleted; expires=Fri, 13-Nov-2015 06:51:11 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Set-Cookie: PHPSESSID=c153dee7bce2b356bb5d71074e51f0ce
+Set-Cookie: PHPSESSID=c153dee7bce2b356bb5d71074e51f0ce; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 6a09_merchantid=deleted; expires=Fri, 13-Nov-2015 06:51:11 GMT; path=/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Server' => 'Microsoft-IIS/8.5',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=6a0dea3a3acac96de289732084eda47e',
+      1 => 'PHPSESSID=6a0dea3a3acac96de289732084eda47e; path=/',
+      2 => '4d49_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Powered-By' => 
+    array (
+      0 => 'PHP/5.3.29',
+      1 => 'ASP.NET',
+    ),
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Connection' => 'close',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/8.5
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=6a0dea3a3acac96de289732084eda47e
+Set-Cookie: PHPSESSID=6a0dea3a3acac96de289732084eda47e; path=/
+Set-Cookie: 4d49_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Connection: close
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.9',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=8da6c7e7fc19a06438bc8a86e3c3ae58; path=/',
+      1 => '5f69_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.9
+Set-Cookie: PHPSESSID=8da6c7e7fc19a06438bc8a86e3c3ae58; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 5f69_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.9',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=eba91fd10071a6874751510b9550d86e; path=/',
+      1 => '464c_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.9
+Set-Cookie: PHPSESSID=eba91fd10071a6874751510b9550d86e; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 464c_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:12/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:12 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.5.25',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=4c1c84914d144fa91ae2f2beaaa4bf6b; path=/',
+      1 => 'cd59_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.25
+Set-Cookie: PHPSESSID=4c1c84914d144fa91ae2f2beaaa4bf6b; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: cd59_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:13/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:13 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=4156966f9bca43a1f24689e169658a10',
+      1 => 'PHPSESSID=4156966f9bca43a1f24689e169658a10; path=/',
+      2 => 'd1f3_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:13 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=4156966f9bca43a1f24689e169658a10
+Set-Cookie: PHPSESSID=4156966f9bca43a1f24689e169658a10; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: d1f3_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:13/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.9.12',
+    'Date' => 'Sat, 12 Nov 2016 06:51:13 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.4.16',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=7d3129953fc137cc2270721b387671c4',
+      1 => 'PHPSESSID=7d3129953fc137cc2270721b387671c4; path=/',
+      2 => '017b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.9.12
+Date: Sat, 12 Nov 2016 06:51:13 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.4.16
+Set-Cookie: PHPSESSID=7d3129953fc137cc2270721b387671c4
+Set-Cookie: PHPSESSID=7d3129953fc137cc2270721b387671c4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 017b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:13/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:13 GMT',
+    'Server' => 'Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1h PHP/5.4.27',
+    'X-Powered-By' => 'PHP/5.4.27',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=7166b025f3d5e7770d8294d8c5f8fcbc',
+      1 => 'PHPSESSID=7166b025f3d5e7770d8294d8c5f8fcbc; path=/',
+      2 => '6fd2_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:13 GMT
+Server: Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1h PHP/5.4.27
+X-Powered-By: PHP/5.4.27
+Set-Cookie: PHPSESSID=7166b025f3d5e7770d8294d8c5f8fcbc
+Set-Cookie: PHPSESSID=7166b025f3d5e7770d8294d8c5f8fcbc; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 6fd2_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:13/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:13 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.17',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=e011cf8fee53534f627eb2068f6b8804',
+      1 => 'PHPSESSID=e011cf8fee53534f627eb2068f6b8804; path=/',
+      2 => 'b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:13 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.17
+Set-Cookie: PHPSESSID=e011cf8fee53534f627eb2068f6b8804
+Set-Cookie: PHPSESSID=e011cf8fee53534f627eb2068f6b8804; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:13/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:13 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=73c12ad20652666f852c2feefceb10d4',
+      1 => 'PHPSESSID=73c12ad20652666f852c2feefceb10d4; path=/',
+      2 => '03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:13 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=73c12ad20652666f852c2feefceb10d4
+Set-Cookie: PHPSESSID=73c12ad20652666f852c2feefceb10d4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:14/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:13 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=8cdcfca41a4f026bd48a4a551dfb06d8',
+      1 => 'PHPSESSID=8cdcfca41a4f026bd48a4a551dfb06d8; path=/',
+      2 => '03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:13 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=8cdcfca41a4f026bd48a4a551dfb06d8
+Set-Cookie: PHPSESSID=8cdcfca41a4f026bd48a4a551dfb06d8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:14/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:14 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=eaf7f82142b996c50c006a6ddb9fe2a8',
+      1 => 'PHPSESSID=eaf7f82142b996c50c006a6ddb9fe2a8; path=/',
+      2 => 'fd33_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:14 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=eaf7f82142b996c50c006a6ddb9fe2a8
+Set-Cookie: PHPSESSID=eaf7f82142b996c50c006a6ddb9fe2a8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: fd33_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:14/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:14 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=5a3be58d6753645490fa25d597afcbf2',
+      1 => 'PHPSESSID=5a3be58d6753645490fa25d597afcbf2; path=/',
+      2 => '03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:14 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=5a3be58d6753645490fa25d597afcbf2
+Set-Cookie: PHPSESSID=5a3be58d6753645490fa25d597afcbf2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:14/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:14 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=1cafbfa93cb5df6dbd18d24d00250216',
+      1 => 'PHPSESSID=1cafbfa93cb5df6dbd18d24d00250216; path=/',
+      2 => 'dd94_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:14 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=1cafbfa93cb5df6dbd18d24d00250216
+Set-Cookie: PHPSESSID=1cafbfa93cb5df6dbd18d24d00250216; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dd94_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:14/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:14 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.17',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=c469f63e673d00b3b60e8fe6537e41b7',
+      1 => 'PHPSESSID=c469f63e673d00b3b60e8fe6537e41b7; path=/',
+      2 => 'b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:14 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.17
+Set-Cookie: PHPSESSID=c469f63e673d00b3b60e8fe6537e41b7
+Set-Cookie: PHPSESSID=c469f63e673d00b3b60e8fe6537e41b7; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:15/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:15 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=5559a071dcb18fa28d3463004a26fdcd; expires=Mon, 17-Oct-21 14:45:05 GMT; path=/; domain=.isz.cc; HttpOnly',
+      1 => 'PHPSESSID=3b3c24670da07110ca1cfc51462dc8dc',
+      2 => 'PHPSESSID=3b3c24670da07110ca1cfc51462dc8dc; path=/',
+      3 => '2670_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:15 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: yunsuo_session_verify=5559a071dcb18fa28d3463004a26fdcd; expires=Mon, 17-Oct-21 14:45:05 GMT; path=/; domain=.isz.cc; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=3b3c24670da07110ca1cfc51462dc8dc
+Set-Cookie: PHPSESSID=3b3c24670da07110ca1cfc51462dc8dc; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2670_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:15/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:15 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 
+    array (
+      0 => 'Accept-Encoding',
+      1 => 'Accept-Encoding',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'X-Cache' => 'bypass',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=2637fe897f8aa949bae24bf152bcd08b; path=/',
+      1 => 'fe79_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+      2 => '__jsluid=3c3a87fd261c8c3b585482a7d9b2d69b; max-age=31536000; path=/; HttpOnly',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:15 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: PHPSESSID=2637fe897f8aa949bae24bf152bcd08b; path=/
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Cache: bypass
+Set-Cookie: fe79_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: __jsluid=3c3a87fd261c8c3b585482a7d9b2d69b; max-age=31536000; path=/; HttpOnly
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:15/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:15 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=05770246b86b4ac2c358e0a2e144d626',
+      1 => 'PHPSESSID=05770246b86b4ac2c358e0a2e144d626; path=/',
+      2 => '2f58_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:15 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=05770246b86b4ac2c358e0a2e144d626
+Set-Cookie: PHPSESSID=05770246b86b4ac2c358e0a2e144d626; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2f58_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:15/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:15 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=8cedd36fb72d321ed3574f2cfab006a9; path=/',
+      1 => '892a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:15 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=8cedd36fb72d321ed3574f2cfab006a9; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 892a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:15/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:15 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=20ef61f8ee6eeb82ebe5c3c4b6959d25; path=/',
+      1 => '892a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:15 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=20ef61f8ee6eeb82ebe5c3c4b6959d25; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 892a_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.9',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=30def25e874f43c8c522f3c0d8d094fb; path=/',
+      1 => 'b381_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.9
+Set-Cookie: PHPSESSID=30def25e874f43c8c522f3c0d8d094fb; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b381_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.9',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=277b8b424ccdeb57695a9cb8464acd9c; path=/',
+      1 => 'b381_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.9
+Set-Cookie: PHPSESSID=277b8b424ccdeb57695a9cb8464acd9c; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b381_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.24',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=19b8bc0ec65d3a2d6f936dca82ff7913',
+      1 => 'PHPSESSID=19b8bc0ec65d3a2d6f936dca82ff7913; path=/',
+      2 => '87e5_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.24
+Set-Cookie: PHPSESSID=19b8bc0ec65d3a2d6f936dca82ff7913
+Set-Cookie: PHPSESSID=19b8bc0ec65d3a2d6f936dca82ff7913; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 87e5_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=6977ee2ace114eeb5922bb4320d0846e; path=/; HttpOnly',
+      1 => '61c7_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: PHPSESSID=6977ee2ace114eeb5922bb4320d0846e; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 61c7_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=4cf43a462004eccf69472adf1eeddafb',
+      1 => 'PHPSESSID=4cf43a462004eccf69472adf1eeddafb; path=/',
+      2 => 'b984_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=4cf43a462004eccf69472adf1eeddafb
+Set-Cookie: PHPSESSID=4cf43a462004eccf69472adf1eeddafb; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b984_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=b38b54b24670d4c0880ff2c55fc4dc22',
+      1 => 'PHPSESSID=b38b54b24670d4c0880ff2c55fc4dc22; path=/',
+      2 => '03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=b38b54b24670d4c0880ff2c55fc4dc22
+Set-Cookie: PHPSESSID=b38b54b24670d4c0880ff2c55fc4dc22; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:16/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:16 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=f139c7d2b4e9413a1991c1f25a3309b3; path=/',
+      1 => 'd6a4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=f139c7d2b4e9413a1991c1f25a3309b3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: d6a4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:17/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:17 GMT',
+    'Server' => 'Apache',
+    'X-Powered-By' => 'PHP/5.4.26',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=111ab71d330d9bcdd957d1896729b696',
+      1 => 'PHPSESSID=111ab71d330d9bcdd957d1896729b696; path=/',
+      2 => '03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Vary' => 'Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:17 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.26
+Set-Cookie: PHPSESSID=111ab71d330d9bcdd957d1896729b696
+Set-Cookie: PHPSESSID=111ab71d330d9bcdd957d1896729b696; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 03f0_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:17/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:17 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=2b53856bc3096af7044872e7e4e6daec; path=/; HttpOnly',
+      1 => '61c7_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:17 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: PHPSESSID=2b53856bc3096af7044872e7e4e6daec; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 61c7_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:17/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:18 GMT',
+    'Server' => 'Apache',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=da58f796e94a7d9d3291fec38d8477de; path=/',
+      1 => 'a603_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Vary' => 'User-Agent,Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:18 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=da58f796e94a7d9d3291fec38d8477de; path=/
+Set-Cookie: a603_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Vary: User-Agent,Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:17/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:17 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.13',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=ab9a3d50f73a0ff81164e4233c2bae0c; path=/',
+      1 => '5c33_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:17 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.13
+Set-Cookie: PHPSESSID=ab9a3d50f73a0ff81164e4233c2bae0c; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 5c33_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:17/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:17 GMT',
+    'Server' => 'Apache/2.4.10 (Unix) PHP/5.5.7',
+    'X-Powered-By' => 'PHP/5.5.7',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=eb25507b1d6b329d23bd73a8339237dc',
+      1 => 'PHPSESSID=eb25507b1d6b329d23bd73a8339237dc; path=/',
+      2 => '5434_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:17 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.7
+X-Powered-By: PHP/5.5.7
+Set-Cookie: PHPSESSID=eb25507b1d6b329d23bd73a8339237dc
+Set-Cookie: PHPSESSID=eb25507b1d6b329d23bd73a8339237dc; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 5434_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:17/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:17 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=47a3c9862e01f03cf25b21602b0b3532',
+      1 => 'PHPSESSID=47a3c9862e01f03cf25b21602b0b3532; path=/',
+      2 => '35ed_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:17 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=47a3c9862e01f03cf25b21602b0b3532
+Set-Cookie: PHPSESSID=47a3c9862e01f03cf25b21602b0b3532; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 35ed_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:18/'
+array (
+  'errno' => 1,
+  'message' => 'Operation timed out after 1000 milliseconds with 0 bytes received',
+)
+'/=====================================================================================2016-11-12 14:51:18/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.9.12',
+    'Date' => 'Sat, 12 Nov 2016 06:51:18 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.4.16',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=6a52c1fd08d36432b3ff1b62e63f0bdd',
+      1 => 'PHPSESSID=6a52c1fd08d36432b3ff1b62e63f0bdd; path=/',
+      2 => '017b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.9.12
+Date: Sat, 12 Nov 2016 06:51:18 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.4.16
+Set-Cookie: PHPSESSID=6a52c1fd08d36432b3ff1b62e63f0bdd
+Set-Cookie: PHPSESSID=6a52c1fd08d36432b3ff1b62e63f0bdd; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 017b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:18/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:18 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=ff74e85bc14bccec3a7414168d4684e6; path=/',
+      1 => 'fb07___multiid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => '<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title> - </title>
+	<meta name="format-detection" content="telephone=no, address=no">
+	<meta name="apple-mobile-web-app-capable" content="yes" /> <!-- apple devices fullscreen -->
+	<meta name="apple-touch-fullscreen" content="yes"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="shortcut icon" href="http://www.weishangshe.net.cn/attachment/images/global/wechat.jpg" />
+	<script src="http://res.wx.qq.com/open/js/jweixin-1.1.0.js"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/app/util.js"></script>
+	<script src="http://www.weishangshe.net.cn/app/resource/js/require.js"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/lib/jquery-1.11.1.min.js?v=20160906"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/lib/mui.min.js?v=20160906"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/app/common.js?v=20160906"></script>
+	<link href="http://www.weishangshe.net.cn/app/resource/css/bootstrap.min.css?v=20160906" rel="stylesheet">
+	<link href="http://www.weishangshe.net.cn/app/resource/css/common.min.css?v=20160906" rel="stylesheet">
+	<script type="text/javascript">
+	if(navigator.appName == \'Microsoft Internet Explorer\'){
+		if(navigator.userAgent.indexOf("MSIE 5.0")>0 || navigator.userAgent.indexOf("MSIE 6.0")>0 || navigator.userAgent.indexOf("MSIE 7.0")>0) {
+			alert(\'您使用的 IE 浏览器版本过低, 推荐使用 Chrome 浏览器或 IE8 及以上版本浏览器.\');
+		}
+	}
+	window.sysinfo = {
+		\'uniacid\': \'3\',						\'siteroot\': \'http://www.weishangshe.net.cn/\',
+		\'siteurl\': \'http://www.weishangshe.net.cn/app/index.php?i=3&c=entry&m=feng_fightgroups&do=home&ac=auto_task&\',
+		\'attachurl\': \'http://www.weishangshe.net.cn/attachment/\',
+		\'attachurl_local\': \'http://www.weishangshe.net.cn/attachment/\',
+		\'attachurl_remote\': \'\',
+				\'cookie\' : {\'pre\': \'fb07_\'}
+	};
+	// jssdk config 对象
+	jssdkconfig = null || {};
+	// 是否启用调试
+	jssdkconfig.debug = false;
+	jssdkconfig.jsApiList = [
+		\'checkJsApi\',
+		\'onMenuShareTimeline\',
+		\'onMenuShareAppMessage\',
+		\'onMenuShareQQ\',
+		\'onMenuShareWeibo\',
+		\'hideMenuItems\',
+		\'showMenuItems\',
+		\'hideAllNonBaseMenuItem\',
+		\'showAllNonBaseMenuItem\',
+		\'translateVoice\',
+		\'startRecord\',
+		\'stopRecord\',
+		\'onRecordEnd\',
+		\'playVoice\',
+		\'pauseVoice\',
+		\'stopVoice\',
+		\'uploadVoice\',
+		\'downloadVoice\',
+		\'chooseImage\',
+		\'previewImage\',
+		\'uploadImage\',
+		\'downloadImage\',
+		\'getNetworkType\',
+		\'openLocation\',
+		\'getLocation\',
+		\'hideOptionMenu\',
+		\'showOptionMenu\',
+		\'closeWindow\',
+		\'scanQRCode\',
+		\'chooseWXPay\',
+		\'openProductSpecificView\',
+		\'addCard\',
+		\'chooseCard\',
+		\'openCard\',
+		\'openAddress\'
+	];
+	</script>
+</head>
+<body>
+<div class="container container-fill">
+		<script type="text/javascript">
+	<!--
+		util.message(\'您访问的功能模块不存在，请重新进入\', \'\', \'info\');
+	//-->
+	</script>
+						<div class="text-center footer" style="margin:10px 0; width:100%; text-align:center; word-break:break-all;">
+																	&nbsp;&nbsp;			</div>
+																	</div>
+	<style>
+		h5{color:#555;}
+	</style>
+		<script type="text/javascript">
+	$(function(){
+		wx.config(jssdkconfig);
+		var $_share = {"title":null,"imgUrl":"","desc":"","link":"http:\\/\\/www.weishangshe.net.cn\\/app\\/index.php?i=3&c=entry&m=feng_fightgroups&do=home&ac=auto_task"};
+		if(typeof sharedata == \'undefined\'){
+			sharedata = $_share;
+		} else {
+			sharedata[\'title\'] = sharedata[\'title\'] || $_share[\'title\'];
+			sharedata[\'desc\'] = sharedata[\'desc\'] || $_share[\'desc\'];
+			sharedata[\'link\'] = sharedata[\'link\'] || $_share[\'link\'];
+			sharedata[\'imgUrl\'] = sharedata[\'imgUrl\'] || $_share[\'imgUrl\'];
+		}
+		if(sharedata.imgUrl == \'\'){
+			var _share_img = $(\'body img:eq(0)\').attr("src");
+			if(_share_img == ""){
+				sharedata[\'imgUrl\'] = window.sysinfo.attachurl + \'images/global/wechat_share.png\';
+			} else {
+				sharedata[\'imgUrl\'] = util.tomedia(_share_img);
+			}
+		}
+		if(sharedata.desc == \'\'){
+			var _share_content = util.removeHTMLTag($(\'body\').html());
+			if(typeof _share_content == \'string\'){
+				sharedata.desc = _share_content.replace($_share[\'title\'], \'\')
+			}
+		}
+		wx.ready(function () {
+			wx.onMenuShareAppMessage(sharedata);
+			wx.onMenuShareTimeline(sharedata);
+			wx.onMenuShareQQ(sharedata);
+			wx.onMenuShareWeibo(sharedata);
+		});
+				if($(\'.js-quickmenu\')!=null && $(\'.js-quickmenu\')!=\'\'){
+			var h = $(\'.js-quickmenu .nav-home\').height()+20+\'px\';
+			$(\'body\').css("padding-bottom",h);
+			$(\'body .mui-content\').css("bottom",h);
+		}else{
+			$(\'body\').css("padding-bottom",0);
+			$(\'body .mui-content\').css("bottom", "0");
+		}
+			
+		if($(\'.nav-menu-app\')!=null && $(\'.nav-menu-app\')!=\'\'){
+			var h = $(\'.nav-menu-app\').height()+\'px\';
+			$(\'body\').css("padding-bottom",h);
+			$(\'.mui-content\').css(\'bottom\',h);
+		}else{
+			$(\'body\').css("padding-bottom", "0");
+			$(\'.mui-content\').css(\'bottom\', "0");
+		}
+	});
+	</script>
+</body>
+</html>
+',
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:18 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=ff74e85bc14bccec3a7414168d4684e6; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: fb07___multiid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title> - </title>
+	<meta name="format-detection" content="telephone=no, address=no">
+	<meta name="apple-mobile-web-app-capable" content="yes" /> <!-- apple devices fullscreen -->
+	<meta name="apple-touch-fullscreen" content="yes"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="shortcut icon" href="http://www.weishangshe.net.cn/attachment/images/global/wechat.jpg" />
+	<script src="http://res.wx.qq.com/open/js/jweixin-1.1.0.js"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/app/util.js"></script>
+	<script src="http://www.weishangshe.net.cn/app/resource/js/require.js"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/lib/jquery-1.11.1.min.js?v=20160906"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/lib/mui.min.js?v=20160906"></script>
+	<script type="text/javascript" src="http://www.weishangshe.net.cn/app/resource/js/app/common.js?v=20160906"></script>
+	<link href="http://www.weishangshe.net.cn/app/resource/css/bootstrap.min.css?v=20160906" rel="stylesheet">
+	<link href="http://www.weishangshe.net.cn/app/resource/css/common.min.css?v=20160906" rel="stylesheet">
+	<script type="text/javascript">
+	if(navigator.appName == \'Microsoft Internet Explorer\'){
+		if(navigator.userAgent.indexOf("MSIE 5.0")>0 || navigator.userAgent.indexOf("MSIE 6.0")>0 || navigator.userAgent.indexOf("MSIE 7.0")>0) {
+			alert(\'您使用的 IE 浏览器版本过低, 推荐使用 Chrome 浏览器或 IE8 及以上版本浏览器.\');
+		}
+	}
+	window.sysinfo = {
+		\'uniacid\': \'3\',						\'siteroot\': \'http://www.weishangshe.net.cn/\',
+		\'siteurl\': \'http://www.weishangshe.net.cn/app/index.php?i=3&c=entry&m=feng_fightgroups&do=home&ac=auto_task&\',
+		\'attachurl\': \'http://www.weishangshe.net.cn/attachment/\',
+		\'attachurl_local\': \'http://www.weishangshe.net.cn/attachment/\',
+		\'attachurl_remote\': \'\',
+				\'cookie\' : {\'pre\': \'fb07_\'}
+	};
+	// jssdk config 对象
+	jssdkconfig = null || {};
+	// 是否启用调试
+	jssdkconfig.debug = false;
+	jssdkconfig.jsApiList = [
+		\'checkJsApi\',
+		\'onMenuShareTimeline\',
+		\'onMenuShareAppMessage\',
+		\'onMenuShareQQ\',
+		\'onMenuShareWeibo\',
+		\'hideMenuItems\',
+		\'showMenuItems\',
+		\'hideAllNonBaseMenuItem\',
+		\'showAllNonBaseMenuItem\',
+		\'translateVoice\',
+		\'startRecord\',
+		\'stopRecord\',
+		\'onRecordEnd\',
+		\'playVoice\',
+		\'pauseVoice\',
+		\'stopVoice\',
+		\'uploadVoice\',
+		\'downloadVoice\',
+		\'chooseImage\',
+		\'previewImage\',
+		\'uploadImage\',
+		\'downloadImage\',
+		\'getNetworkType\',
+		\'openLocation\',
+		\'getLocation\',
+		\'hideOptionMenu\',
+		\'showOptionMenu\',
+		\'closeWindow\',
+		\'scanQRCode\',
+		\'chooseWXPay\',
+		\'openProductSpecificView\',
+		\'addCard\',
+		\'chooseCard\',
+		\'openCard\',
+		\'openAddress\'
+	];
+	</script>
+</head>
+<body>
+<div class="container container-fill">
+		<script type="text/javascript">
+	<!--
+		util.message(\'您访问的功能模块不存在，请重新进入\', \'\', \'info\');
+	//-->
+	</script>
+						<div class="text-center footer" style="margin:10px 0; width:100%; text-align:center; word-break:break-all;">
+																	&nbsp;&nbsp;			</div>
+																	</div>
+	<style>
+		h5{color:#555;}
+	</style>
+		<script type="text/javascript">
+	$(function(){
+		wx.config(jssdkconfig);
+		var $_share = {"title":null,"imgUrl":"","desc":"","link":"http:\\/\\/www.weishangshe.net.cn\\/app\\/index.php?i=3&c=entry&m=feng_fightgroups&do=home&ac=auto_task"};
+		if(typeof sharedata == \'undefined\'){
+			sharedata = $_share;
+		} else {
+			sharedata[\'title\'] = sharedata[\'title\'] || $_share[\'title\'];
+			sharedata[\'desc\'] = sharedata[\'desc\'] || $_share[\'desc\'];
+			sharedata[\'link\'] = sharedata[\'link\'] || $_share[\'link\'];
+			sharedata[\'imgUrl\'] = sharedata[\'imgUrl\'] || $_share[\'imgUrl\'];
+		}
+		if(sharedata.imgUrl == \'\'){
+			var _share_img = $(\'body img:eq(0)\').attr("src");
+			if(_share_img == ""){
+				sharedata[\'imgUrl\'] = window.sysinfo.attachurl + \'images/global/wechat_share.png\';
+			} else {
+				sharedata[\'imgUrl\'] = util.tomedia(_share_img);
+			}
+		}
+		if(sharedata.desc == \'\'){
+			var _share_content = util.removeHTMLTag($(\'body\').html());
+			if(typeof _share_content == \'string\'){
+				sharedata.desc = _share_content.replace($_share[\'title\'], \'\')
+			}
+		}
+		wx.ready(function () {
+			wx.onMenuShareAppMessage(sharedata);
+			wx.onMenuShareTimeline(sharedata);
+			wx.onMenuShareQQ(sharedata);
+			wx.onMenuShareWeibo(sharedata);
+		});
+				if($(\'.js-quickmenu\')!=null && $(\'.js-quickmenu\')!=\'\'){
+			var h = $(\'.js-quickmenu .nav-home\').height()+20+\'px\';
+			$(\'body\').css("padding-bottom",h);
+			$(\'body .mui-content\').css("bottom",h);
+		}else{
+			$(\'body\').css("padding-bottom",0);
+			$(\'body .mui-content\').css("bottom", "0");
+		}
+			
+		if($(\'.nav-menu-app\')!=null && $(\'.nav-menu-app\')!=\'\'){
+			var h = $(\'.nav-menu-app\').height()+\'px\';
+			$(\'body\').css("padding-bottom",h);
+			$(\'.mui-content\').css(\'bottom\',h);
+		}else{
+			$(\'body\').css("padding-bottom", "0");
+			$(\'.mui-content\').css(\'bottom\', "0");
+		}
+	});
+	</script>
+</body>
+</html>
+',
+)
+'/=====================================================================================2016-11-12 14:51:19/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.17',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=c3aa82d4bcb74685f51e8ef7961d8048',
+      1 => 'PHPSESSID=c3aa82d4bcb74685f51e8ef7961d8048; path=/',
+      2 => 'b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '324',
+  ),
+  'content' => '<br><pre>Array
+(
+    [return_code] => SUCCESS
+    [return_msg] => OK
+    [appid] => wx58ed2758eab878fb
+    [mch_id] => 1392098502
+    [nonce_str] => cR9bB5jkpxVbxevZ
+    [sign] => 27F5EBCF9A693867A35FCBC8E281C87F
+    [result_code] => FAIL
+    [err_code] => TRADE_STATE_ERROR
+    [err_code_des] => 订单状态错误
+)
+</pre>',
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.17
+Set-Cookie: PHPSESSID=c3aa82d4bcb74685f51e8ef7961d8048
+Set-Cookie: PHPSESSID=c3aa82d4bcb74685f51e8ef7961d8048; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: b906_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 324
+
+<br><pre>Array
+(
+    [return_code] => SUCCESS
+    [return_msg] => OK
+    [appid] => wx58ed2758eab878fb
+    [mch_id] => 1392098502
+    [nonce_str] => cR9bB5jkpxVbxevZ
+    [sign] => 27F5EBCF9A693867A35FCBC8E281C87F
+    [result_code] => FAIL
+    [err_code] => TRADE_STATE_ERROR
+    [err_code_des] => 订单状态错误
+)
+</pre>',
+)
+'/=====================================================================================2016-11-12 14:51:19/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.41',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=7cb31b534fa3405fbaf27aa5471657c3; path=/',
+      1 => '723f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.41
+Set-Cookie: PHPSESSID=7cb31b534fa3405fbaf27aa5471657c3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 723f_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:19/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Connection' => 'close',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Cache-Control' => 'no-store',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.22',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=df2643099ec3ea8123377c203f9b22fe; path=/',
+      1 => '9797_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'X-Daa-Tunnel' => 'hop_count=1',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Connection: close
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.22
+Set-Cookie: PHPSESSID=df2643099ec3ea8123377c203f9b22fe; path=/
+Pragma: no-cache
+Set-Cookie: 9797_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Daa-Tunnel: hop_count=1
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:19/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=7123efef61c1738dd8ac5f07d2420dba',
+      1 => 'PHPSESSID=7123efef61c1738dd8ac5f07d2420dba; path=/; HttpOnly',
+      2 => '77e4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: PHPSESSID=7123efef61c1738dd8ac5f07d2420dba
+Set-Cookie: PHPSESSID=7123efef61c1738dd8ac5f07d2420dba; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 77e4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:19/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=068eb55d23371c19d7b1a95ac6bb0a99',
+      1 => 'PHPSESSID=068eb55d23371c19d7b1a95ac6bb0a99; path=/',
+      2 => '09a6_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: close
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=068eb55d23371c19d7b1a95ac6bb0a99
+Set-Cookie: PHPSESSID=068eb55d23371c19d7b1a95ac6bb0a99; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 09a6_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:19/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=e5203b8e9264d7df5eda7309a7d32ed8',
+      1 => 'PHPSESSID=e5203b8e9264d7df5eda7309a7d32ed8; path=/',
+      2 => '17f1_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=e5203b8e9264d7df5eda7309a7d32ed8
+Set-Cookie: PHPSESSID=e5203b8e9264d7df5eda7309a7d32ed8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 17f1_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Server' => 'Microsoft-IIS/8.0',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=f9305f12a060684f2b72da99338f239d',
+      1 => 'PHPSESSID=f9305f12a060684f2b72da99338f239d; path=/',
+      2 => '4435_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Powered-By' => 
+    array (
+      0 => 'PHP/5.3.27',
+      1 => 'ASP.NET',
+    ),
+    'Date' => 'Sat, 12 Nov 2016 06:51:18 GMT',
+    'Connection' => 'close',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/8.0
+X-Powered-By: PHP/5.3.27
+Set-Cookie: PHPSESSID=f9305f12a060684f2b72da99338f239d
+Set-Cookie: PHPSESSID=f9305f12a060684f2b72da99338f239d; path=/
+Set-Cookie: 4435_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Sat, 12 Nov 2016 06:51:18 GMT
+Connection: close
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.2.9',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'yunsuo_session_verify=5559a071dcb18fa28d3463004a26fdcd; expires=Mon, 17-Oct-21 14:45:05 GMT; path=/; domain=.isz.cc; HttpOnly',
+      1 => 'PHPSESSID=452c6c879eea0714d928a68d930d6ff2',
+      2 => 'PHPSESSID=452c6c879eea0714d928a68d930d6ff2; path=/',
+      3 => '2670_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.2.9
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: yunsuo_session_verify=5559a071dcb18fa28d3463004a26fdcd; expires=Mon, 17-Oct-21 14:45:05 GMT; path=/; domain=.isz.cc; HttpOnly
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=452c6c879eea0714d928a68d930d6ff2
+Set-Cookie: PHPSESSID=452c6c879eea0714d928a68d930d6ff2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 2670_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Connection' => 'close',
+    'Date' => 'Sat, 12 Nov 2016 06:51:19 GMT',
+    'Server' => 'Microsoft-IIS/6.0',
+    'X-Powered-By' => 
+    array (
+      0 => 'ASP.NET',
+      1 => 'PHP/5.3.27',
+    ),
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=be1ff0bd1cf1ea8d0cb839991a860074',
+      1 => 'PHPSESSID=be1ff0bd1cf1ea8d0cb839991a860074; path=/',
+      2 => 'e113_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Connection: close
+Date: Sat, 12 Nov 2016 06:51:19 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-Powered-By: PHP/5.3.27
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=be1ff0bd1cf1ea8d0cb839991a860074
+Set-Cookie: PHPSESSID=be1ff0bd1cf1ea8d0cb839991a860074; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: e113_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.9',
+    'Access-Control-Allow-Origin' => '*',
+    'Access-Control-Allow-Headers' => 'X-Requested-With',
+    'Access-Control-Allow-Methods' => 'GET,POST,OPTIONS',
+  ),
+  'content' => '指定公众号已被删除',
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.9
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+
+指定公众号已被删除',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=dd49f58f5a6036aada2ad098bb1a84c3; path=/',
+      1 => '0310_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=dd49f58f5a6036aada2ad098bb1a84c3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 0310_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.4.24',
+  ),
+  'content' => '抱歉，您的公众号服务已过期，请及时联系管理员',
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.24
+
+抱歉，您的公众号服务已过期，请及时联系管理员',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Date' => 'Sat, 12 Nov 2016 06:51:42 GMT',
+    'Server' => 'Apache',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=d760b6b87a47758f3f1c14bebbe29e02; path=/',
+      1 => '8641_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Vary' => 'User-Agent,Accept-Encoding',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'Content-Type' => 'text/html; charset=utf-8',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Date: Sat, 12 Nov 2016 06:51:42 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=d760b6b87a47758f3f1c14bebbe29e02; path=/
+Set-Cookie: 8641_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Vary: User-Agent,Accept-Encoding
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.0.15',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.3.29',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=126a1a41073ed4c46012358c7d6273f2',
+      1 => 'PHPSESSID=126a1a41073ed4c46012358c7d6273f2; path=/',
+      2 => 'c70d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=126a1a41073ed4c46012358c7d6273f2
+Set-Cookie: PHPSESSID=126a1a41073ed4c46012358c7d6273f2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: c70d_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.9.12',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.4.16',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=ec3918b01b29c8245f86f25139dd41be',
+      1 => 'PHPSESSID=ec3918b01b29c8245f86f25139dd41be; path=/',
+      2 => '017b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.9.12
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+X-Powered-By: PHP/5.4.16
+Set-Cookie: PHPSESSID=ec3918b01b29c8245f86f25139dd41be
+Set-Cookie: PHPSESSID=ec3918b01b29c8245f86f25139dd41be; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 017b_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:20/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Connection' => 'close',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=b0a984ebf4f4d9107c876ad22e2138b2',
+      1 => 'PHPSESSID=b0a984ebf4f4d9107c876ad22e2138b2; path=/; HttpOnly',
+      2 => '77e4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: PHPSESSID=b0a984ebf4f4d9107c876ad22e2138b2
+Set-Cookie: PHPSESSID=b0a984ebf4f4d9107c876ad22e2138b2; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 77e4_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:21/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.6.2',
+    'Date' => 'Sat, 12 Nov 2016 06:51:28 GMT',
+    'Content-Type' => 'text/html; charset=UTF-8',
+    'Content-Length' => '8368',
+    'Connection' => 'close',
+    'Etag' => '"f54f974da22b978619bac627d99ad52608353a05"',
+    'X-Frame-Options' => 'DENY',
+  ),
+  'content' => '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!--native.ejs head-->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>aeuuu.com</title>
+<meta name="description" content="百度一下 你就知道" />
+<meta name="keywords" content="百度搜索,图片搜索,内容搜索" />
+<script type="text/javascript" src="http://cdn.dragonstatic.com/parking/js/client2.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn.dragonstatic.com/parking/js/track.js"></script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/dp.js"></script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/ci.js"></script>
+<script type="text/javascript">
+var pageinfo = {ad:1};
+</script>
+<style>*{margin:0;padding:0;border:0}body{font-size:14px;font-family:Arial,Helvetica,sans-serif;background-color:#fff}.left{float:left}.right{float:right}.mt12{margin-top:12px}a{text-decoration:none;cursor:pointer}.bgbox{width:958px;border:1px solid#333;background-color:#202020}.top_bg{min-width:900px;height:60px;background-color:#0070c0;color:white}.top_bg h1{font-family:"微软雅黑";font-size:28px;font-weight:normal;line-height:60px;float:left}.container{width:880px;margin:0 auto;height:40px}.clearfix:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden}img{vertical-align:middle}input{outline:medium none}#footer{position:relative;margin-top:10px;color:#999;text-align:center;font-size:14px;line-height:20px}.footer-cont{background:#2a2931;position:relative;min-width:1210px}.footer-detail{margin:0 auto;padding:13px 0;padding-top:20px;width:1000px;color:#999}.footer-detail a{padding:0 10px;color:#999}.footer-detail a:hover{text-decoration:underline}.footer-l{position:absolute;left:20px;top:20px}.footer-r{position:absolute;right:20px;top:20px}.xinnet{float:left;line-height:40px;font-size:16px;color:#fff}#content{width:900px;margin:0 auto}.box1{width:298px;height:248px;border:1px solid#ddd;background:#f2f2f2;text-align:center;vertical-align:middle;font-size:16px}.box1>p{margin-top:45px;line-height:30px;color:#999}.box1_title{font-size:32px;color:#666}.mt20{margin-top:20px}.mr10{margin-right:10px}.mt10{margin-top:10px}.left>a>img{width:300px;height:250px}.index_collection{height:40px;overflow:hidden;background-color:#fff;font-size:12px}.index_collection>.top{background-color:#fff4db;padding:10px 0 8px;height:40px}.index_collection>.top>.area{width:980px;margin:0 auto;text-align:center}.index_collection>.top>.area>p{float:right;cursor:pointer;vertical-align:middle;display:inline-block;padding-left:10px;margin-top:2px}.index_collection>.top>.area>span{display:inline-block;margin-left:20px}.index_collection>.top>.area>span>a{color:#e02f2f;text-decoration:underline}.index_collection>.top>.area>p{background-image:url(\'http://z6.tuanimg.com/v3/src/img/common/big_bg_img_v2_new.png\');background-repeat:no-repeat;background-position-x:-286px;background-position-y:-26px}.search_logo{width:240px;margin:0 auto}.search{width:640px;margin:0 auto}.lm-title{width:300px;height:40px;line-height:40px}.lm-title>h2{padding-left:20px;font-size:16px;color:#fff}.hb{width:1200px;height:36px;line-height:36px}.hb>h2{color:#fff;float:left;font-size:16px;padding-left:20px}.yqline>a{padding-right:10px}
+</style>
+</head>
+<!--5te.cn 的head标签，除style外，全都没用-->
+<!--native.ejs body-->
+<body>
+<!--顶部域名过期提醒-->
+<div class="top_bg">
+<div class="container">
+<div class="left" id="unit_dm">
+<h1>aeuuu.com</h1>
+<div class="clearfix"></div>
+</div>
+<div class="left" style="line-height:60px;font-size:18px;width:500px;padding-left:10px;color: #ccc;text-align: left;">您访问的<a href=\'http://www.22.cn/domain/\'style=\'color:#ccc;\'>域名</a>已经<a href=\'http://www.22.cn/yuding/\'style=\'color:#ccc;\'>过期</a>，请联系您的<a href=\'http://www.22.cn\'style=\'color:#ccc;\'>域名注册商</a>进行续费！
+</div>
+<div style="float:right;font-size:14px;width:80px;line-height:60px;color:#ccc;text-align:right;">
+<a href="http://www.22.cn/domain/buy_aeuuu.com_bdpk.html" target="_parent" style="color:#FC3">购买此域名</a>
+</div>
+</div>
+</div>
+<!--页面内容-->
+<div id="content">
+<!--内容顶部爱名网提供-->
+<div id="c1" style="z-index: 10; position: fixed; width: 120px; top: 50%; margin-top: -100px; left: 86px;">
+<a href="http://www.22.cn/yun/?source=bdpkyun2" target="_blank"><img src="http://cdn.dragonstatic.com/22/bdpkleft_yun.gif" border="0" width="120"></a>
+</div>
+<div id="c2" style="z-index: 10; position: fixed; width: 120px; top: 50%; margin-top: -100px; right: 86px;">
+<a href="https://tm.22.cn/?source=bdpkyun2" target="_blank"><img src="http://cdn.dragonstatic.com/22/bdpkright_yun.jpg" border="0" width="120"></a>
+</div>
+<div id="c3" style="z-index: 10; width:210px; height:210px; position:fixed; left:0; bottom:50px;">
+<a href="http://www.vip800.com/hb" target="_blank"><img src="http://cdn.dragonstatic.com/parking/images/1111pop.gif" border="0"></a>
+</div>
+<div class="mt10">
+<a href="http://am.22.cn/?spm=bdpkyun1" target="_blank">
+<img src="http://cdn.dragonstatic.com/22/ampk.gif" width="890" height="80"></a>
+</div>
+<div class="mt10">
+<a href="http://www.mingyou.com?s=bdpk" target="_blank">
+<img src="http://cdn.dragonstatic.com/22/bdpk_mingyou.gif" width="890" height="80" alt="域名贷款">
+</a>
+</div>
+<div class="mt10">
+<a href="http://www.vip800.com/hb" target="_blank">
+<img src="http://cdn.dragonstatic.com/parking/images/1111banner.gif" border="0" width="890" height="84" >
+</a>
+</div>
+
+<!-- 龙停放广告显示区域开始 -->
+<div class="layout mt10">
+<!--<div style="width:960px;margin: 0 auto;overflow: hidden;background-color:#fff; padding-top:5px;">-->
+<!--<script src="http://www.fuleu.net/ads/DP_ly/PC/01gd/Service.js"></script>-->
+<!--</div>-->
+<div style="width:960px; margin: 0 auto; background-color:#fff; padding-top:5px;">
+<script src="http://uimg.1qwe3r.com/mrcode1.php?ai=40029" language="JavaScript"></script>
+</div>
+<div>
+<script src="http://uimg.1qwe3r.com/mrcode1.php?ai=37585" language="JavaScript"></script>
+</div>
+</div>
+<!-- 龙停放广告显示区域结束 -->
+
+<!--内容底部爱名网提供-->
+<div class="layout mt10"style="border:1px solid #CCC;padding:10px">
+<h2 style="font-family:Arial,Helvetica,sans-serif;color:#939393;margin: 0 10px 15px 0;display: block;font-size:13px;font-weight:normal;">赞助商&nbsp;&nbsp;<img src="http://www.22.cn/images/baidupk_qqtalk.gif"></h2>
+<div class="yqline"style="font-size:14px">
+
+<a target="_blank" href="http://www.22.cn/" title="爱名网" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">爱名网</a>
+
+<a target="_blank" href="http://www.22.cn/domain/" title="域名注册" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">域名注册</a>
+
+<a target="_blank" href="http://club.22.cn/" title="域名论坛" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">域名论坛</a>
+
+<a target="_blank" href="http://www.qiangmi.com/" title="抢米网" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">抢米网</a>
+
+<a target="_blank" href="http://www.eb.com.cn/" title="虚拟主机" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">虚拟主机</a>
+
+</div>
+</div>
+</div>
+<!--底部域名过期提醒-->
+<div id="footer">
+<div class="footer-line"></div>
+<div class="footer-cont">
+<div class="footer-detail">
+<div style="width:150px; margin:auto; height: 35px; background-color: #f60;text-align:center;">
+<a style="font-weight: bold; line-height: 35px; font-size:16px; color:#fff;" href="http://www.22.cn/domain/buy_aeuuu.com_bdpk.html" target="_blank">委托购买此域名</a>
+</div>
+</div>
+<div class="footer-detail copyright">Copyright&copy;2016&nbsp;aeuuu.com.&nbsp;all rights reserved.</div>
+</div>
+</div>
+<!--51la和cnzz的统计代码-->
+<div style="display: none;">
+<script language="javascript"type="text/javascript"src="http://js.users.51.la/17025260.js"> </script>
+<script src="http://s85.cnzz.com/stat.php?id=293206&web_id=293206"language="JavaScript"></script>
+</div>
+</body>
+</html>',
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Sat, 12 Nov 2016 06:51:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8368
+Connection: close
+Etag: "f54f974da22b978619bac627d99ad52608353a05"
+X-Frame-Options: DENY
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!--native.ejs head-->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>aeuuu.com</title>
+<meta name="description" content="百度一下 你就知道" />
+<meta name="keywords" content="百度搜索,图片搜索,内容搜索" />
+<script type="text/javascript" src="http://cdn.dragonstatic.com/parking/js/client2.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn.dragonstatic.com/parking/js/track.js"></script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/dp.js"></script>
+<script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/ci.js"></script>
+<script type="text/javascript">
+var pageinfo = {ad:1};
+</script>
+<style>*{margin:0;padding:0;border:0}body{font-size:14px;font-family:Arial,Helvetica,sans-serif;background-color:#fff}.left{float:left}.right{float:right}.mt12{margin-top:12px}a{text-decoration:none;cursor:pointer}.bgbox{width:958px;border:1px solid#333;background-color:#202020}.top_bg{min-width:900px;height:60px;background-color:#0070c0;color:white}.top_bg h1{font-family:"微软雅黑";font-size:28px;font-weight:normal;line-height:60px;float:left}.container{width:880px;margin:0 auto;height:40px}.clearfix:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden}img{vertical-align:middle}input{outline:medium none}#footer{position:relative;margin-top:10px;color:#999;text-align:center;font-size:14px;line-height:20px}.footer-cont{background:#2a2931;position:relative;min-width:1210px}.footer-detail{margin:0 auto;padding:13px 0;padding-top:20px;width:1000px;color:#999}.footer-detail a{padding:0 10px;color:#999}.footer-detail a:hover{text-decoration:underline}.footer-l{position:absolute;left:20px;top:20px}.footer-r{position:absolute;right:20px;top:20px}.xinnet{float:left;line-height:40px;font-size:16px;color:#fff}#content{width:900px;margin:0 auto}.box1{width:298px;height:248px;border:1px solid#ddd;background:#f2f2f2;text-align:center;vertical-align:middle;font-size:16px}.box1>p{margin-top:45px;line-height:30px;color:#999}.box1_title{font-size:32px;color:#666}.mt20{margin-top:20px}.mr10{margin-right:10px}.mt10{margin-top:10px}.left>a>img{width:300px;height:250px}.index_collection{height:40px;overflow:hidden;background-color:#fff;font-size:12px}.index_collection>.top{background-color:#fff4db;padding:10px 0 8px;height:40px}.index_collection>.top>.area{width:980px;margin:0 auto;text-align:center}.index_collection>.top>.area>p{float:right;cursor:pointer;vertical-align:middle;display:inline-block;padding-left:10px;margin-top:2px}.index_collection>.top>.area>span{display:inline-block;margin-left:20px}.index_collection>.top>.area>span>a{color:#e02f2f;text-decoration:underline}.index_collection>.top>.area>p{background-image:url(\'http://z6.tuanimg.com/v3/src/img/common/big_bg_img_v2_new.png\');background-repeat:no-repeat;background-position-x:-286px;background-position-y:-26px}.search_logo{width:240px;margin:0 auto}.search{width:640px;margin:0 auto}.lm-title{width:300px;height:40px;line-height:40px}.lm-title>h2{padding-left:20px;font-size:16px;color:#fff}.hb{width:1200px;height:36px;line-height:36px}.hb>h2{color:#fff;float:left;font-size:16px;padding-left:20px}.yqline>a{padding-right:10px}
+</style>
+</head>
+<!--5te.cn 的head标签，除style外，全都没用-->
+<!--native.ejs body-->
+<body>
+<!--顶部域名过期提醒-->
+<div class="top_bg">
+<div class="container">
+<div class="left" id="unit_dm">
+<h1>aeuuu.com</h1>
+<div class="clearfix"></div>
+</div>
+<div class="left" style="line-height:60px;font-size:18px;width:500px;padding-left:10px;color: #ccc;text-align: left;">您访问的<a href=\'http://www.22.cn/domain/\'style=\'color:#ccc;\'>域名</a>已经<a href=\'http://www.22.cn/yuding/\'style=\'color:#ccc;\'>过期</a>，请联系您的<a href=\'http://www.22.cn\'style=\'color:#ccc;\'>域名注册商</a>进行续费！
+</div>
+<div style="float:right;font-size:14px;width:80px;line-height:60px;color:#ccc;text-align:right;">
+<a href="http://www.22.cn/domain/buy_aeuuu.com_bdpk.html" target="_parent" style="color:#FC3">购买此域名</a>
+</div>
+</div>
+</div>
+<!--页面内容-->
+<div id="content">
+<!--内容顶部爱名网提供-->
+<div id="c1" style="z-index: 10; position: fixed; width: 120px; top: 50%; margin-top: -100px; left: 86px;">
+<a href="http://www.22.cn/yun/?source=bdpkyun2" target="_blank"><img src="http://cdn.dragonstatic.com/22/bdpkleft_yun.gif" border="0" width="120"></a>
+</div>
+<div id="c2" style="z-index: 10; position: fixed; width: 120px; top: 50%; margin-top: -100px; right: 86px;">
+<a href="https://tm.22.cn/?source=bdpkyun2" target="_blank"><img src="http://cdn.dragonstatic.com/22/bdpkright_yun.jpg" border="0" width="120"></a>
+</div>
+<div id="c3" style="z-index: 10; width:210px; height:210px; position:fixed; left:0; bottom:50px;">
+<a href="http://www.vip800.com/hb" target="_blank"><img src="http://cdn.dragonstatic.com/parking/images/1111pop.gif" border="0"></a>
+</div>
+<div class="mt10">
+<a href="http://am.22.cn/?spm=bdpkyun1" target="_blank">
+<img src="http://cdn.dragonstatic.com/22/ampk.gif" width="890" height="80"></a>
+</div>
+<div class="mt10">
+<a href="http://www.mingyou.com?s=bdpk" target="_blank">
+<img src="http://cdn.dragonstatic.com/22/bdpk_mingyou.gif" width="890" height="80" alt="域名贷款">
+</a>
+</div>
+<div class="mt10">
+<a href="http://www.vip800.com/hb" target="_blank">
+<img src="http://cdn.dragonstatic.com/parking/images/1111banner.gif" border="0" width="890" height="84" >
+</a>
+</div>
+
+<!-- 龙停放广告显示区域开始 -->
+<div class="layout mt10">
+<!--<div style="width:960px;margin: 0 auto;overflow: hidden;background-color:#fff; padding-top:5px;">-->
+<!--<script src="http://www.fuleu.net/ads/DP_ly/PC/01gd/Service.js"></script>-->
+<!--</div>-->
+<div style="width:960px; margin: 0 auto; background-color:#fff; padding-top:5px;">
+<script src="http://uimg.1qwe3r.com/mrcode1.php?ai=40029" language="JavaScript"></script>
+</div>
+<div>
+<script src="http://uimg.1qwe3r.com/mrcode1.php?ai=37585" language="JavaScript"></script>
+</div>
+</div>
+<!-- 龙停放广告显示区域结束 -->
+
+<!--内容底部爱名网提供-->
+<div class="layout mt10"style="border:1px solid #CCC;padding:10px">
+<h2 style="font-family:Arial,Helvetica,sans-serif;color:#939393;margin: 0 10px 15px 0;display: block;font-size:13px;font-weight:normal;">赞助商&nbsp;&nbsp;<img src="http://www.22.cn/images/baidupk_qqtalk.gif"></h2>
+<div class="yqline"style="font-size:14px">
+
+<a target="_blank" href="http://www.22.cn/" title="爱名网" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">爱名网</a>
+
+<a target="_blank" href="http://www.22.cn/domain/" title="域名注册" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">域名注册</a>
+
+<a target="_blank" href="http://club.22.cn/" title="域名论坛" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">域名论坛</a>
+
+<a target="_blank" href="http://www.qiangmi.com/" title="抢米网" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">抢米网</a>
+
+<a target="_blank" href="http://www.eb.com.cn/" title="虚拟主机" style="white-space: normal;word-break: break-all; word-wrap: break-word; color: rgb(15, 12, 191);">虚拟主机</a>
+
+</div>
+</div>
+</div>
+<!--底部域名过期提醒-->
+<div id="footer">
+<div class="footer-line"></div>
+<div class="footer-cont">
+<div class="footer-detail">
+<div style="width:150px; margin:auto; height: 35px; background-color: #f60;text-align:center;">
+<a style="font-weight: bold; line-height: 35px; font-size:16px; color:#fff;" href="http://www.22.cn/domain/buy_aeuuu.com_bdpk.html" target="_blank">委托购买此域名</a>
+</div>
+</div>
+<div class="footer-detail copyright">Copyright&copy;2016&nbsp;aeuuu.com.&nbsp;all rights reserved.</div>
+</div>
+</div>
+<!--51la和cnzz的统计代码-->
+<div style="display: none;">
+<script language="javascript"type="text/javascript"src="http://js.users.51.la/17025260.js"> </script>
+<script src="http://s85.cnzz.com/stat.php?id=293206&web_id=293206"language="JavaScript"></script>
+</div>
+</body>
+</html>',
+)
+'/=====================================================================================2016-11-12 14:51:21/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx/1.8.1',
+    'Date' => 'Sat, 12 Nov 2016 06:51:21 GMT',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Content-Length' => '0',
+    'Connection' => 'close',
+    'X-Powered-By' => 'PHP/5.6.21',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=ac74306c718484850f2df2809ce031c6',
+      1 => 'PHPSESSID=ac74306c718484850f2df2809ce031c6; path=/',
+      2 => '09a6_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Sat, 12 Nov 2016 06:51:21 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: close
+X-Powered-By: PHP/5.6.21
+Set-Cookie: PHPSESSID=ac74306c718484850f2df2809ce031c6
+Set-Cookie: PHPSESSID=ac74306c718484850f2df2809ce031c6; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 09a6_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:21/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Server' => 'Microsoft-IIS/7.5',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=78ac82e23fe367042ab29b1b042dec34; path=/',
+      1 => 'f419_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Powered-By' => 
+    array (
+      0 => 'PHP/5.4.28',
+      1 => 'ASP.NET',
+    ),
+    'Date' => 'Sat, 12 Nov 2016 06:51:18 GMT',
+    'Connection' => 'close',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/7.5
+X-Powered-By: PHP/5.4.28
+Set-Cookie: PHPSESSID=78ac82e23fe367042ab29b1b042dec34; path=/
+Set-Cookie: f419_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Sat, 12 Nov 2016 06:51:18 GMT
+Connection: close
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:21/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Cache-Control' => 'no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+    'Pragma' => 'no-cache',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Expires' => 'Thu, 19 Nov 1981 08:52:00 GMT',
+    'Server' => 'Microsoft-IIS/8.0',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=139ddcbaf4d7b88e9c2c0e585b4417ae',
+      1 => 'PHPSESSID=139ddcbaf4d7b88e9c2c0e585b4417ae; path=/',
+      2 => '4435_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/',
+    ),
+    'X-Powered-By' => 
+    array (
+      0 => 'PHP/5.3.27',
+      1 => 'ASP.NET',
+    ),
+    'Date' => 'Sat, 12 Nov 2016 06:51:20 GMT',
+    'Connection' => 'close',
+    'Content-Length' => '0',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/8.0
+X-Powered-By: PHP/5.3.27
+Set-Cookie: PHPSESSID=139ddcbaf4d7b88e9c2c0e585b4417ae
+Set-Cookie: PHPSESSID=139ddcbaf4d7b88e9c2c0e585b4417ae; path=/
+Set-Cookie: 4435_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Sat, 12 Nov 2016 06:51:20 GMT
+Connection: close
+Content-Length: 0
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:21/'
+array (
+  'code' => '200',
+  'status' => 'OK',
+  'responseline' => 'HTTP/1.1 200 OK',
+  'headers' => 
+  array (
+    'Server' => 'nginx',
+    'Connection' => 'close',
+    'Date' => 'Sat, 12 Nov 2016 06:51:21 GMT',
+    'Cache-Control' => 'no-store',
+    'Content-Type' => 'text/html; charset=utf-8',
+    'Vary' => 'Accept-Encoding',
+    'X-Powered-By' => 'PHP/5.6.22',
+    'Pragma' => 'no-cache',
+    'Set-Cookie' => 
+    array (
+      0 => 'PHPSESSID=b1175deb930f286db75b788db1404c6c; path=/',
+      1 => '9797_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/',
+    ),
+    'X-Daa-Tunnel' => 'hop_count=1',
+  ),
+  'content' => false,
+  'meta' => 'HTTP/1.1 200 OK
+Server: nginx
+Connection: close
+Date: Sat, 12 Nov 2016 06:51:21 GMT
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.6.22
+Set-Cookie: PHPSESSID=b1175deb930f286db75b788db1404c6c; path=/
+Pragma: no-cache
+Set-Cookie: 9797_merchantid=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Daa-Tunnel: hop_count=1
+
+',
+)
+'/=====================================================================================2016-11-12 14:51:22/'
+array (
+  'errno' => 1,
+  'message' => 'connect() timed out!',
+)
+'/=====================================================================================2016-11-12 14:51:23/'
+array (
+  'errno' => 1,
+  'message' => 'Operation timed out after 1000 milliseconds with 0 bytes received',
+)

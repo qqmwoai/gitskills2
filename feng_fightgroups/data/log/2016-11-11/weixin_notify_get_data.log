@@ -1,0 +1,20 @@
+'/=====================================================================================2016-11-11 13:44:33/'
+array (
+  'appid' => 'wx58ed2758eab878fb',
+  'attach' => '26',
+  'bank_type' => 'CFT',
+  'cash_fee' => '3',
+  'fee_type' => 'CNY',
+  'is_subscribe' => 'Y',
+  'mch_id' => '1392098502',
+  'nonce_str' => 'ipLln5aE',
+  'openid' => 'oFan6wZrsom0HDNO_eRGwI9XNOjk',
+  'out_trade_no' => '2016111113442500001344467419',
+  'result_code' => 'SUCCESS',
+  'return_code' => 'SUCCESS',
+  'sign' => 'F57931EB99A7E009EADD68FA48BA760A',
+  'time_end' => '20161111134432',
+  'total_fee' => '3',
+  'trade_type' => 'JSAPI',
+  'transaction_id' => '4000012001201611119411372832',
+)
